@@ -1,4 +1,4 @@
-# E-CNN
+# Enhanced image classification using edge CNN (E-CNN)
 
 This repository contains all files related to the paper " Enhanced image classification using edge CNN (E-CNN) ":
 
